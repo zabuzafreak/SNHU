@@ -1,0 +1,3 @@
+Creating user stories helps define the issue from the perspective of the user. Issues are not always apparent to programmers, because we do not interface with the product in the same way a user will.
+I approach developing programs by starting with a basic outline of what purpose my program fulfills, and the most basic set of instructions it must accomplish. I do not necessarily think Agile or Waterfall are inherently better, but, I will say that having planned timeframes for work will help me organize better in the future.
+Being a good team member in software development means being present and accountable. Which is something I desperately need to work on.
